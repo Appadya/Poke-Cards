@@ -1,5 +1,10 @@
 # pokecards
 
+## Firebase required
+```
+npm i firebase
+```
+
 ## Project setup
 ```
 npm install
